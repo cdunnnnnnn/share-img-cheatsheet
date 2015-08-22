@@ -30,6 +30,6 @@
 
 ## reference
 [The Mega Guide to Ideal Image Sizes for Your Social Media Posts: Guidelines for All 6 Major Social Networks](https://blog.bufferapp.com/ideal-image-sizes-social-media-posts)
-- square ```1200x1200``` (facebook, linkedin)
-- landscape ```1024x630``` (facebook, twitter)
-- portrait ```736x1128```
+- square(facebook, linkedin) ```1200x1200```
+- landscape(facebook, twitter) ```1024x630```
+- portrait(pinterest, googleplus) ```736x1128```
