@@ -6,6 +6,8 @@
 - [twitter](#twitter)
 - [linkedin](#linkedin)
 - [googleplus](#googleplus)
+- [pinterest](#pinterest)
+- [instagram](#instagram)
 
 ## facebook
 - high res ```1200x630```
